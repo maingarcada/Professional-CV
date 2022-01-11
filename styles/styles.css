@@ -7,7 +7,14 @@ img {
   display: flex;
 }
 .profile {
-  display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 30%;
+  background-color: #98BAE7;
+  padding: 10px;
+}
+.description {
+flex-direction: column;
+  width: 30%;
+  background-color: #B8E4F0;
+  padding: 10px;
 }
